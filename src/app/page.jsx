@@ -4710,7 +4710,7 @@ function MainComponent() {
             </a>
           </div>
           <p className="text-sm text-[#ffffff60] font-roboto">
-            Seek An AI Copyright 2025. All Rights Reserved
+            SeekAnAI Copyright 2025. All Rights Reserved
           </p>
         </div>
       </footer>
